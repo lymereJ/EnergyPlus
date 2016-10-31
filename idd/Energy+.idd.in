@@ -33708,7 +33708,7 @@ ZoneHVAC:UnitHeater,
    A6 , \field Supply Air Fan Name
         \required-field
         \type object-list
-        \object-list FansCVandVAV
+        \object-list FansCVandOnOffandVAV
    N1 , \field Maximum Supply Air Flow Rate
         \required-field
         \units m3/s
